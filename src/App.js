@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Cinthia Sanchez, deploy with Amplify Aws</p>
         <a
           className="App-link"
           href="https://reactjs.org"
